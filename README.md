@@ -5,32 +5,19 @@
 ### Strategy: 
 
 1.	Libraries
-
 2.	Data Cleaning – Stage 1
-
 3.	Analysis of Tags
-
-3.1.	 Tag Plots
-
-4.	Data Cleaning – Stage 2
-
-4.1.	 Training Data
-
-4.2.	 Testing Data
-
-5.	Machine Learning
-
-5.1.	 Splitting the training Data
-
-5.2.	 Tags Reduction
-
-5.3.	 Removing no coverage
-
-5.4.	 Featurizing data with TF-IDF vectorizer
-
-5.5.	 Featurizing Labels
-
-5.6.	 OneVsRest Classifier with SGDClassifier using TF-IDF
+4.	 Tag Plots
+5.	Data Cleaning – Stage 2
+6.	 Training Data
+7.	 Testing Data
+8.	Machine Learning
+9.	 Splitting the training Data
+10.	 Tags Reduction
+11.	 Removing no coverage
+12.	 Featurizing data with TF-IDF vectorizer
+13.	 Featurizing Labels
+14.	 OneVsRest Classifier with SGDClassifier using TF-IDF
 
 ### Table of Content:
 
